@@ -1,2 +1,0 @@
-from parsel import Selector
-

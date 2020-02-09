@@ -1,10 +1,17 @@
-# search query
-search_query = 'site:linkedin.com/in/ AND "python developer" AND "London"'
+# keyword
+keyword1 = 'physician'
+keyword2 = 'Seattle'
+keyword3 = 'hospital'
 
+# numbers of page
+how_many_pages = 100
+
+# number of invitaions [We recommend you make this number smaller]
+maximum_invitation = 1
 
 # file were scraped profile information will be stored
 file_name = 'results_file.xlsx'
 
 # login credentials
-linkedin_username = 'asa980589@gmail.com'
-linkedin_password = '3131521590'
+linkedin_username = '.com'
+linkedin_password = ''
